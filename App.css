@@ -1,0 +1,8 @@
+.App {
+  margin: 0 auto;
+  width: 850px;
+}
+
+.App Form.Label {
+  font-size: 50px;
+}
